@@ -1,0 +1,20 @@
+.container-add-recipes {
+    padding: 2rem 10rem;
+
+    label {
+        display: block;
+        font-weight: 600;
+        padding: 0.5rem;
+        color: grey;
+    }
+}
+
+.ingredients {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    background-color: darkgray;
+}
+
